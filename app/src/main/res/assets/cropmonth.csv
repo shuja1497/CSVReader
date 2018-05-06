@@ -1,0 +1,107 @@
+CROP NAME,CROP TYPE,MONTH,TEMPERATURE - WINTER,RAINFALL - WINTER
+ BARLEY (JOW)  ,RABI,MID-OCTOBER - MID-NOVEMBER,12-32°C ,800-1100 mm  
+ MAIZE (KHARIF)   ,Kharif, End-May - June,25°C - 30°C ,50-100cm 
+ MAIZE (RABI)   ,Rabi, October-November,21°C - 27°C  ,50-100cm
+ OATS  ,RABI, OCTOBER,20-30°C ,80-100 mm 
+ RICE   ,Rabi , October-December,16-30° C ,100-200cm 
+ WHEAT (KANAK/GEHU)   ,Rabi, Mid-October - Mid-November,21-26°C ,75 cm
+ COTTON    ,Kharif,April-May,15-35°C ,55-100 cm 
+ COTTON    ,Kharif,April-May,15-35°C ,55-100 cm 
+ BAJRA NAPIER HYBRID   ,Kharif,May-june,30°C ,30-60 cm 
+ BERSEEM    ,RABI , SEPTEMBER-DECEMBER,15°C - 27°C ,550-750 mm 
+ FINGER MILLET   ,KHARIF , MAY-JULY,20-34°C ,100 cm 
+ GUAR   ,Kharif,August-september,28-32 degree ,100-110mm 
+ GUINEA GRASS   ,Rabi, February- March,19-23°C ,1000-1100 mm 
+ LUCERNE    ,Rabi, mid-october,15-32°C ,350-400mm 
+ SENJI HYBRID   ,Rabi,November-december,25°C - 32°C ,40-50 cm 
+ SHAFTAL   ,RABI, OCTOBER,12°C - 20°C ,500 mm 
+ SORGHUM  ,RABI , NOVEMBER- FEBRUARY,25°C - 32°C (Max) ,40 cm 
+ TEOSINTE   ,KHARIF,APRIL-MAY,21-32°C ,50-75 cm 
+ COWPEA    ,Kharif, March- mid-July,22-35°C ,750-1100mm 
+ DHAINCHA    ,KHARIF-RABI, JANUARY-DECEMBER,22-35°C ,750-800mm 
+ MESTA   ,Kharif,May-june,25°C - 35°C ,60-90 cm 
+ SUNHEMP   ,Rabi,March,20-35°C ,400-1000mm 
+ GROUNDNUT   ,KHARIF , APRIL - JUNE,20°C - 30°C ,50-75 cm 
+ LINSEED/ FLAX  ,Rabi , mid-October,21-26°C ,45-75cm 
+ MUSTARD   ,Rabi,October-November,22°C - 25°C ,25-40 cm 
+ SAFFLOWER   ,Rabi , October-November,15-20°C ,60-90cm 
+ SOYBEAN   ,Kharif, Mid-June,18-38°C ,30-60cm 
+ SUNFLOWER   ,KHARIF , FEBRUARY- MAY,20°C - 25°C ,500-700 mm 
+  LENTIL (MASUR)   ,Rabi, October - March ,18°C - 20°C ,100 cm 
+ BENGAL GRAM(CHICKPEA)   ,KHARIF , JUNE-NOVEMBER,24°C - 30°C ,60-90 cm 
+ GREEN GRAM(MOONG)   ,Kharif,March-april,25°C - 35°C ,60-90 cm 
+ KIDNEY BEAN (RAJMA)   ,RABI, OCTOBER-NOVEMBER,15-25°C ,60-150mm 
+ MASH (URD)  ,Kharif,March-april,15-30°C ,50-75cm 
+ PIGEON PEA (TUR)   ,Kharif,June-july,30°C - 35°C (max.) ,600-650 mm 
+ RICEBEAN   ,Kharif, July-November,18-37°C ,60-150cm 
+ SUGARCANE    ,Rabi , October-December,20-30°C ,75-150cm 
+ LEMON    ,KHARIF , JULY- AUGUST,20°C - 25°C ,75 cm-200 cm 
+ LIME (NIMBOO)   ,KHARIF ,AUGUST- OCTOBER,20°C - 25°C ,75 cm-200 cm 
+ CHRYSANTHEMUM   ,RABI, FEBRUARY-MARCH,18-40°C ,80-100cm 
+ GERBERA   ,RABI, SEPTEMBER-OCTOBER,15-30°C ,600-650mm 
+ MARIGOLD   ,KHARIF , April-June,25-35°C ,100-150cm 
+ ROSE   ,Rabi, mid-September - mid-November,18-30°C ,200-300mm 
+ DREK   ,Rabi, August-September,23-35°C ,600-1000mm 
+ EUCALYPTUS   ,Kharif, June - October,0-40°C ,500-3000mm 
+ POPLAR   ,Rabi, Mid February-Mid March,20-30°C ,750-800mm 
+ SAGWAN   ,KHARIF,JULY-AUGUST,10-45°C ,1200-2500mm 
+ BER   ,Rabi , August-April,15-40°C ,300-400mm 
+ GUAVA   ,KHARIF , September-September,15-30°C ,100cm 
+ KINNOW  ,Kharif, June - September,13-37°C ,300-400mm 
+ LITCHI   ,Rabi , August-June,25-35°C ,1200mm 
+ MULBERRY    ,Kharif, EARLY June - END September,24-28°C ,600-2500mm 
+ MUSKMELON   ,Rabi, mid february,18-30°C ,50-75mm 
+ ORANGE/ MANDARINS (SANTRA)   ,KHARIF ,AUGUST- OCTOBER,10°C - 30°C ,500-600 mm 
+ PEACH   ,KHARIF, MAY,200-300mm ,200-300mm 
+ PEAR (NASHPATI)   ,Rabi , January-July,10-25°C ,50-75mm 
+ PLUM   ,KHARIF,MAY,20-30°C ,200-300mm 
+ SWEET ORANGES (MALTA)   ,KHARIF ,AUGUST- OCTOBER,10°C - 30°C ,500 mm 
+ WATERMELON   ,Rabi, Mid January-March,20-30°C ,50-75mm 
+ ALOE VERA    ,KHARIF , JUNE-SEPTEMBER,25-40°C ,35-40cm  
+ AMLA   ,RABI , NOVEMBER- FEBRUARY,46-48°C ,630-800 mm 
+ ASHWAGANDHA   ,KHARIF , April-July,20-25°C ,300-350mm 
+ BAHERA    ,KHARIF,JULY,30-45°C ,900-3000mm 
+ BHUMI AMALAKI   ,KHARIF , APRIL-MAY,28-38 degree ,25-30cm 
+ BRAHMI   ,KHARIF , JUNE-NOVEMBER,33-40°C  ,650-830 mm 
+ HONEY   ,Rabi, September-October,28-32°C ,50-75mm 
+ INDIAN BAEL    ,KHARIF,JUNE-JULY,35-50°C  ,174-200cm 
+ KALIHARI   ,KHARIF-RABI, JANUARY-DECEMBER,25-40°C ,80-150cm 
+ LEMON GRASS   ,RABI , OCTOBER-DECEMBER,10-33oC ,250-280cm 
+ MULETHI   ,RABI , OCTOBER-DECEMBER,15-30°C ,50-100cm 
+ NEEM   ,Rabi, August-September,25-30°C ,400-1200mm 
+ PUDINA   ,Rabi , December- June,41°C ,100mm 
+ SADABAHAR   ,RABI , OCTOBER-DECEMBER,15-25°C ,100cm 
+ SAFED MUSLI   ,RABI , OCTOBER-DECEMBER,15-35°C ,50-150cm 
+ SARPAGANDHA   ,Rabi-Kharif,April-June,10-35°C ,2500mm 
+ SHANKHPUSHPI   ,RABI , OCTOBER-DECEMBER,20-30°C ,850-1300mm 
+ SHATAVARI   ,RABI , OCTOBER-DECEMBER,20-35°C ,600-1000mm 
+ STEVIA   ,Rabi, February- March,25-30°C ,1600-1800mm 
+ SWEET FLAG   ,RABI , OCTOBER-DECEMBER,10-38°C ,70-250 cm  
+ TULSI    ,KHARIF,APRIL-MAY,14-30°C ,80-120cm 
+ CORIANDER    ,Rabi , October-November,15-28°C ,75-100mm 
+ FENNEL   ,Rabi, mid-october,15-25°C ,50-75mm 
+ FENUGREEK   ,Rabi-Kharif,October-July,15-28°C ,50-75cm 
+ GINGER (ADRAKH)  ,Kharif, May - mid-June,12-35°C ,1500mm 
+ TURMERIC (HALDI)   ,Kharif, May-June,24°C - 28°C ,70-230cm 
+ ARUM (ARVI)   ,KHARIF,APRIL-JUNE,18-35°C ,120-150mm 
+ ASH GOURD   ,Rabi, February- March,15-35°C ,100-150cm 
+ BRINJAL   ,Rabi , October-November,15-32°C ,600-1000mm 
+ CAPSICUM   ,RABI, OCTOBER,21-25°C ,625-1500mm 
+ CARROT   ,Rabi, September - October,7-23°C ,75-100cm 
+ CAULIFLOWER   ,RABI , OCTOBER-DECEMBER,12-30°C ,120-125mm 
+ CELERY   ,Rabi, September-October,12-30°C ,100cm 
+ CHILLY    ,Rabi, October-November,18-40°C ,625-1500mm 
+ CUCUMBER   ,KHARIF,JUNE-JULY,25-35°C ,120-150mm 
+ GARLIC   ,Rabi, September-October,10-30°C ,600-700mm 
+ KHARIF ONION (PYAZ)   ,Kharif, May-June,21-26°C ,650-750mm 
+ LETTUCE   ,Kharif, September-Mid November,20-30°C ,100-150cm 
+ OKRA   ,Kharif, June-July,20-30°C ,1000mm 
+ PEAS   ,Rabi , Mid October-November,15-30°C ,400-500mm 
+ POTATO   ,Rabi, September-October,14-25°C ,300-500mm 
+ RABI ONION (PYAZ)   ,Rabi,October-November,15-30°C ,650-750mm 
+ RADISH   ,RABI, MID-SEPTEMBER - OCTOBER,18-25°C ,100-225cm 
+ SPINACH   ,RABI,SEPTEMBER-OCTOBER,15-30°C ,80-120cm 
+ SQUASH MELON   ,Rabi, End January-February,10-28°C ,200-300mm 
+ SWEET POTATO    ,RABI, MID-NOVEMBER - MID-DECEMBER,26-30°C ,750-1200mm 
+ TOMATO    ,Rabi, November-December,10-25°C ,400-600mm 
+ TURNIP   ,Rabi,August-September,12-30°C ,200-400cm 
